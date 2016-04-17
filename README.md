@@ -25,7 +25,7 @@ Page under construction.
 * [ShareLaTeX Guides](https://www.sharelatex.com/learn/Main_Page)
 
 ### Tutorials
-* [A Simple Guide to LaTeX](https://www.latex-tutorial.com/tutorials/)
+* [A Simple Guide to LaTeX](https://www.latex-tutorial.com/tutorials/).  
 Specially how to [typeset math](https://www.latex-tutorial.com/tutorials/beginners/latex-amsmath/) and how to [add a bibliography](https://www.latex-tutorial.com/tutorials/beginners/latex-bibtex/)
 
 ### Tools
